@@ -1,6 +1,6 @@
 # Weather-App
 
-check it out 
+check it out [click here](https://rakesh-099.github.io/Weather-App/)
 
 # Overview
 ![Weatherapp](https://user-images.githubusercontent.com/76737199/177379040-43a3cbc0-1a22-4d43-b902-7b8d170c2a56.jpg)
